@@ -52,7 +52,7 @@ def view():
 
 connect()
 
-# Testing
+# # Testing
 # insert("A", "A", 2001, 123456789)
 # insert("B", "B", 2002, 987654321)
 # insert("C", "C", 2003, 456123789)
@@ -61,4 +61,4 @@ connect()
 # delete(2)
 # print(view())
 # update(3, "D", "D", 2004, 456123568)
-# print(view())
+print(view())
